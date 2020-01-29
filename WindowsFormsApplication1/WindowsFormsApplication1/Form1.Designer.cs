@@ -36,9 +36,9 @@
             // 
             // button_direrctor
             // 
-            this.button_direrctor.Location = new System.Drawing.Point(12, 12);
+            this.button_direrctor.Location = new System.Drawing.Point(32, 20);
             this.button_direrctor.Name = "button_direrctor";
-            this.button_direrctor.Size = new System.Drawing.Size(75, 23);
+            this.button_direrctor.Size = new System.Drawing.Size(102, 40);
             this.button_direrctor.TabIndex = 0;
             this.button_direrctor.Text = "Дыректор ♂";
             this.button_direrctor.UseVisualStyleBackColor = true;
@@ -46,9 +46,9 @@
             // 
             // button_coach
             // 
-            this.button_coach.Location = new System.Drawing.Point(12, 41);
+            this.button_coach.Location = new System.Drawing.Point(32, 66);
             this.button_coach.Name = "button_coach";
-            this.button_coach.Size = new System.Drawing.Size(75, 23);
+            this.button_coach.Size = new System.Drawing.Size(102, 40);
             this.button_coach.TabIndex = 1;
             this.button_coach.Text = "Тренер";
             this.button_coach.UseVisualStyleBackColor = true;
@@ -56,9 +56,9 @@
             // 
             // button_manager
             // 
-            this.button_manager.Location = new System.Drawing.Point(12, 70);
+            this.button_manager.Location = new System.Drawing.Point(32, 112);
             this.button_manager.Name = "button_manager";
-            this.button_manager.Size = new System.Drawing.Size(75, 23);
+            this.button_manager.Size = new System.Drawing.Size(102, 40);
             this.button_manager.TabIndex = 2;
             this.button_manager.Text = "Менегер";
             this.button_manager.UseVisualStyleBackColor = true;
@@ -66,9 +66,9 @@
             // 
             // button_user
             // 
-            this.button_user.Location = new System.Drawing.Point(12, 99);
+            this.button_user.Location = new System.Drawing.Point(32, 158);
             this.button_user.Name = "button_user";
-            this.button_user.Size = new System.Drawing.Size(75, 23);
+            this.button_user.Size = new System.Drawing.Size(102, 40);
             this.button_user.TabIndex = 3;
             this.button_user.Text = "Гачибасс♂";
             this.button_user.UseVisualStyleBackColor = true;
@@ -78,7 +78,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 262);
+            this.ClientSize = new System.Drawing.Size(177, 210);
             this.Controls.Add(this.button_user);
             this.Controls.Add(this.button_manager);
             this.Controls.Add(this.button_coach);

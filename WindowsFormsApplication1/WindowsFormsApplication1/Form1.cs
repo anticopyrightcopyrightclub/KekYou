@@ -19,7 +19,10 @@ namespace WindowsFormsApplication1
 
         private void button_direrctor_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            director die = new director();
+            die.ShowDialog();
+            this.Close();
         }
 
         private void button_coach_Click(object sender, EventArgs e)

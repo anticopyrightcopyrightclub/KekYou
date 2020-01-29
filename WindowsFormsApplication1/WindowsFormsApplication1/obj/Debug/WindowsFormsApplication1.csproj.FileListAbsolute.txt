@@ -1,1 +1,11 @@
 C:\Users\kas911.RSTKS\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+W:\Студенты\4й курс\461\Некрасов А.А\GitHub\Forum\KekYou\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+W:\Студенты\4й курс\461\Некрасов А.А\GitHub\Forum\KekYou\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+W:\Студенты\4й курс\461\Некрасов А.А\GitHub\Forum\KekYou\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+W:\Студенты\4й курс\461\Некрасов А.А\GitHub\Forum\KekYou\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+W:\Студенты\4й курс\461\Некрасов А.А\GitHub\Forum\KekYou\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.director.resources
+W:\Студенты\4й курс\461\Некрасов А.А\GitHub\Forum\KekYou\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+W:\Студенты\4й курс\461\Некрасов А.А\GitHub\Forum\KekYou\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+W:\Студенты\4й курс\461\Некрасов А.А\GitHub\Forum\KekYou\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+W:\Студенты\4й курс\461\Некрасов А.А\GitHub\Forum\KekYou\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+W:\Студенты\4й курс\461\Некрасов А.А\GitHub\Forum\KekYou\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
